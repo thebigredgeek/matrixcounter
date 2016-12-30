@@ -1,4 +1,6 @@
 # matrixcounter
+[![Build Status](https://travis-ci.org/thebigredgeek/matrixcounter.svg?branch=master)](https://travis-ci.org/thebigredgeek/matrixcounter)
+
 A simple iterator for counting along a matrix that contains varied numerical bases.
 
 ### Purpose
