@@ -48,7 +48,6 @@ setInterval(() => {
 ```
 
 ### Todo
-- Hook up travis, coveralls, and beer pay :D
+- Hook coveralls and and beer pay :D
 - Add more tests
 - Add better docs
-- Release
