@@ -5,7 +5,7 @@ node_js:
   - "4"
 
 install:
-  - make node_modules
+  - make dependencies
 
 script:
   - make lint
