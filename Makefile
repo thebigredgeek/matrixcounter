@@ -26,3 +26,6 @@ lint: .FORCE
 
 lint-test: .FORCE
 	eslint test
+	
+example: .FORCE
+	babel-node examples/clock.js

@@ -13,7 +13,7 @@ MatrixCounter is a simple library for iterating and counting about a matrix that
 
 ### Example Usage
 ```javascript
-import MatrixCounter from '../dist/index';
+import MatrixCounter from 'matrix-counter';
 
 const d = new Date();
 const clock = new MatrixCounter(
@@ -45,6 +45,8 @@ setInterval(() => {
   $ make test # test code
   
   $ make # build code
+  
+  $ make example # run the above example (examples/clock.js)
 ```
 
 ### Todo
